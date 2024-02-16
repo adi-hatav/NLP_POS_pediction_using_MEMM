@@ -11,4 +11,4 @@ The data sets:
 - a test sample of size 1000 for the large training sample.
 - Two competition files for labeling, one labeled after training on the large training sample and the other after training on the small training sample.
 
-We reached an accuracy percentage of 96.3 on the test sample, the highest accuracy percentage out of 225 students.
+We reached an accuracy percentage of 96.3% on the test sample, the highest accuracy percentage out of 225 students.
